@@ -1,0 +1,1 @@
+An open source well log interpretation tool benefitting from data science and visualisation libraries of Python programming language, allowing users to display and interpret conventional well logs, depositional environments, sequence boundaries, heat flows, clay types, fracture intensities, operational records and post-mortem PPFG analysis
